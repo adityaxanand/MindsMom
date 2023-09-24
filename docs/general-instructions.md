@@ -52,6 +52,6 @@ By using Mind's Mom, you agree to abide by our [Code of Conduct](code-of-conduct
 
 ## Feedback and Assistance
 
-If you have questions, concerns, or suggestions, please feel free to reach out to our support team at [support@minds-mom.com](mailto:support@minds-mom.com). Your feedback is invaluable in helping us enhance Mind's Mom and provide better support to our community.
+If you have questions, concerns, or suggestions, please feel free to reach out to our support team at mindsmom@outlook.com. Your feedback is invaluable in helping us enhance Mind's Mom and provide better support to our community.
 
 Thank you for choosing Mind's Mom. We are here to support you on your mental health journey.
