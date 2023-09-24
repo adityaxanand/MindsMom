@@ -1,7 +1,8 @@
 # MindsMom
 # Mental Health Self-Identification and Support App
 
-![mental-health](https://github.com/adityaanandz/MindsMom/assets/82191607/a0f4bfb7-31ee-4207-bab8-303a11cd5b38)
+![icon](https://github.com/adityaanandz/MindsMom/assets/82191607/5ae6b2cb-2748-47a3-addc-ec689796a7ef)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
