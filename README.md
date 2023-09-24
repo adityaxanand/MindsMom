@@ -61,9 +61,9 @@ Before taking the assessment or accessing resources, please read our [General In
 - [Psychology Today](https://www.psychologytoday.com)
 - [Substance Abuse and Mental Health Services Administration (SAMHSA)](https://www.samhsa.gov)
 - [National Suicide Prevention Lifeline](https://www.suicidepreventionlifeline.org)
-- [Local Crisis Hotlines](#) (Add local resources for specific regions)
-- [Mindfulness and Relaxation Apps](#) (Add app links)
-- [Educational Websites](#) (Add links to informative websites)
+- [Local Crisis Hotlines](#) 
+- [Mindfulness and Relaxation Apps](#) 
+- [Educational Websites](#) 
 
 ## Contributing
 
