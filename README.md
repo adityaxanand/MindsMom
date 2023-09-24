@@ -66,7 +66,7 @@ Before taking the assessment or accessing resources, please read our [General In
 
 ## Contributing
 
-We welcome contributions from the open-source community. Please see our [Contributing Guidelines](contributing.md) for details on how to get involved.
+We welcome contributions from the open-source community. Please see our [Contributing Guidelines](docs/contributing.md) for details on how to get involved.
 
 ## License
 
