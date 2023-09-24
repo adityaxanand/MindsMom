@@ -22,7 +22,7 @@ Before you start contributing, please take a moment to read and understand these
 
 ## Code of Conduct
 
-By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). Please be respectful and considerate of others when contributing.
+By participating in this project, you agree to abide by our [Code of Conduct](code-of-conduct.md). Please be respectful and considerate of others when contributing.
 
 ## How Can I Contribute?
 
@@ -64,14 +64,14 @@ To set up a development environment for Mind's Mom, please refer to our [Develop
 
 Before submitting a pull request, ensure the following:
 
-- Your code follows our [style guide](#style-guide).
+- Your code follows our [style guide](style-guide.md).
 - You have written tests for your changes where applicable.
 - Your changes do not break existing functionality.
 - Your pull request includes a clear and concise description of the changes.
 
 ## Style Guide
 
-Follow our [Style Guide](STYLE_GUIDE.md) for code formatting and best practices.
+Follow our [Style Guide](style-guide.md) for code formatting and best practices.
 
 ## Community
 
