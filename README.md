@@ -17,7 +17,7 @@
 
 ## Introduction
 
-Welcome to our Mental Health Self-Identification and Support App Mind's Mom! This app is designed to empower individuals to assess their mental health, access valuable resources, and receive personalized guidance for well-being. Whether you're looking for self-help tools, peer support, or professional resources, we're here to support you on your mental health journey.
+Welcome to our Mental Health Self-Identification and Support App **Mind's Mom!** This app is designed to empower individuals to assess their mental health, access valuable resources, and receive personalized guidance for well-being. Whether you're looking for self-help tools, peer support, or professional resources, we're here to support you on your mental health journey.
 
 ## Features
 
@@ -37,7 +37,7 @@ Welcome to our Mental Health Self-Identification and Support App Mind's Mom! Thi
 ### Installation
 
 1. Visit the [App Store](#) or [Google Play Store](#).
-2. Search for "Mind's Mom".
+2. Search for "**Mind's Mom**".
 3. Click "Install" or "Download" to install the app on your device.
 
 ## How to Use
